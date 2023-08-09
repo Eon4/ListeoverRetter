@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+h2:hover{
+  color: rgb(16, 144, 236);
+  cursor: pointer;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
