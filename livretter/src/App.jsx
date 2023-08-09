@@ -9,7 +9,7 @@ function App() {
   const nameArray = [
     {name: "Grillkylling med pomfritter"},
     {name: "Italiensk pizza"},
-    {name: "Græsk salat med feta ost og tzatziki"}
+    {name: "Græsk salat med feta og tzatziki"}
   ]
 
   return (
